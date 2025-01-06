@@ -16,7 +16,7 @@ Contents:
 * [Description](#description)
 * [Goals](#goals)  
 * [About Me](#about-me)  
-* [Materials](#materials)   
+* [Games and Materials](#games-and-materials)   
 * [Assignments](#assignments) 
 * [Workload](#workload)   
 * [Schedule](#schedule)   
