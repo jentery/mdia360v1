@@ -61,7 +61,7 @@ You can email me at [jentery@uvic.ca](mailto:jentery@uvic.ca) or find me in Clea
 
 You do *not* need to purchase a textbook for this course, but you will need access to a computer, the internet (including [Brightspace](https://bright.uvic.ca/)), a camera, and a microphone. 
 
-*Games*: Time permitting, we'll study the following games this term. I will encourage (but not require) you to purchase at least two of them: one or more for your genre report and one or more for your final essay (see "Assignments" below for details). 
+*Games*: Time permitting, we'll study the following games (if only briefly) this term. I will encourage (but not require) you to purchase at least two of them: one or more for your genre report and one or more for your final essay (see "Assignments" below for details). 
 
 * [*Satisfactory*](https://coffeestain.com/games/satisfactory) by Coffee Stain Studios, who are based in Sweden. 
 * [*Sweave*](https://www.letiarts.com/sweave/) by Leti Games, who are based in Ghana. 
@@ -69,7 +69,7 @@ You do *not* need to purchase a textbook for this course, but you will need acce
 * [*Celeste*](https://www.celestegame.com/) by Maddy Makes Games / Extremely OK Games, who are based in Canada. 
 * [*1000xRESIST*](https://www.sunsetvisitor.studio/) by sunset visitor 斜陽過客, who are based in Canada.  
 * [*UFO 50*](https://50games.fun/), by Derek Yu, Jon Perry, Eirik Suhrke, Paul Hubans, Ojiro Fumoto, and Tyriq Plummer, who are scattered across the US, Norway, and Japan. 
-* [*Helldivers 2*](https://en.wikipedia.org/wiki/Helldivers_2) by Arrowhead Studies, who are based in Sweden. 
+* [*Helldivers 2*](https://en.wikipedia.org/wiki/Helldivers_2) by Arrowhead Studios, who are based in Sweden. 
 * [*Lasers & Feelings*](http://www.onesevendesign.com/laserfeelings/) by One Seven Design / John Harper, who are based in the US.
 * [*Inscryption*](https://www.inscryption.com/) by Daniel Mullins, who is based in Canada. 
 * [*Slay the Spire*](https://www.megacrit.com/games/) by MegaCrit, who are based in the US.
@@ -99,7 +99,6 @@ You do *not* need to purchase a textbook for this course, but you will need acce
 * [*Trombone Champ*](https://www.trombonechamp.com/) by Holy Wow, who are based in New York. 
 * [*Street Fighter*](https://en.wikipedia.org/wiki/Street_Fighter) by Capcom, which is based in Japan.
 * [*Pandemic Legacy*](https://www.zmangames.com/game/pandemic-legacy-season-1/) by Z-Man Games, which is based in the US. 
-* [*Pandemic Legacy*](https://www.zmangames.com/game/pandemic-legacy-season-1/) by Z-Man Games, which is based in the US.  
 * [*Fog of Love*](https://floodgate.games/products/fog-of-love) by Jacob Jaskov et al., who are based in Denmark. 
 * [*Mario Party*](https://en.wikipedia.org/wiki/Mario_Party) by Nintendo, which is based in Japan. 
 * [*Overcooked*](https://www.overcooked.games/) by Ghost Town Games, who are based in England. 
@@ -174,7 +173,7 @@ Be sure to check the class notebook after this session.
 
 ## M 13 January: Sandboxes and Casual Games
 
-We'll study sandbox and casual games. Would you call them toys? In what ways do they appeal to play? 
+We'll study sandboxes and casual games. Would you call them toys? In what ways do they appeal to play? 
 
 We'll draw material from: 
 
@@ -211,9 +210,11 @@ Be sure to check the class notebook after this session.
 
 ## Th 23 January: Culture and Content 
 
-We'll discuss gaming communities and content creation alongside topics such as monetization, intersectionality, fandom, toxicity, harassment, gamergate, completionism, and accessibility. We'll also review all the games we've studied thus far in terms of their culture and the content people (including fans) produce about them. 
+We'll discuss gaming communities and content creation alongside topics such as monetization, intersectionality, fandom, toxicity, harassment, gamergate, completionism, and accessibility. 
 
-We'll draw material from [*Helldivers 2*](https://en.wikipedia.org/wiki/Helldivers_2) by Arrowhead Studies, who are based in Sweden. 
+We'll also review all the games we've studied thus far in terms of their culture and the content people (including fans) make about them. 
+
+We'll draw material from [*Helldivers 2*](https://en.wikipedia.org/wiki/Helldivers_2) by Arrowhead Studios, who are based in Sweden. 
 
 Be sure to check the class notebook after this session. 
 
