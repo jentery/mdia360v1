@@ -29,7 +29,7 @@ As a researcher and instructor at the University of Victoria, I acknowledge and 
 
 In this [video](https://www.youtube.com/watch?v=jAgS8kOsjYY), Songhees Elder Elmer George welcomes visitors to the traditional lands of the Songhees, Esquimalt, and <u>W</u>SÁNEĆ people in lək̓ʷəŋən and English. The acknowledgement in this video was prepared in consultation with local Indigenous communities.
 
-The fact that we're gathering at UVic to study media is a product of colonization and injustice upon local lands, waters, and people. I continue to learn about those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about territory acknowledgements and how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
+The fact that we're gathering at UVic to study games is a product of colonization and injustice upon local lands, waters, and people. I continue to learn about those injustices, and I will make no assumptions about your knowledge or experiences of them. As part of this course, I invite ongoing dialogue about territory acknowledgements and how UVic students, faculty, and staff are building good relations and fostering reciprocity. 
 
 # Description
 
@@ -105,7 +105,7 @@ You do *not* need to purchase a textbook for this course, but you will need acce
 
 *Content Warnings*: I'll include content warnings for materials, including games, before I share or screen them in class. 
 
-*Class Notebook*: I will create a class notebook for this course and update it throughout the term. It'll be available online, and I recommend checking it at least twice a week (after each class session). The URL for the notebook is available in Brightspace. 
+*Class Notebook*: I will create a class notebook for this course and update it throughout the term. It'll be available online, and I recommend checking it at least twice a week (after each class session). I will use it to document what we're doing in class, ask you questions, and point you to secondary sources, including publications in the field of Game Studies. The URL for the notebook is available in Brightspace. 
 
 *Recordings*: I do not plan to record our class sessions; however, you are welcome to record audio for private access, study, and note-taking.
  
@@ -119,7 +119,7 @@ You do *not* need to purchase a textbook for this course, but you will need acce
 
 # Assignments
 
-There are no exams, quizzes, presentations, or participation marks in this course.
+There are no exams, quizzes, or participation marks in this course.
 
 I am asking you to complete five assignments this term. 
 
@@ -131,7 +131,7 @@ I am asking you to complete five assignments this term.
 
 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). They will also scaffold your learning toward the final essay (see below). A worksheet will never contain more than three prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
-*Genre Report*: Near the end of term, you will work in a small group (4-6 people) to cover a genre of games that does not appear explicitly in the schedule below. Together, you will describe the genre as an activity and provide examples of its significance. I will encourage (but not require) your group to meet up (F2F or online) to play games in this genre. The prompt for this assignment will include a mechanism to help ensure equal contributions from each group member. 
+*Genre Report*: Near the end of term, you will work in a small group (4-6 people) to cover a genre of games that does not appear explicitly in the schedule below. Together, you will describe the genre as an activity and provide examples of its significance. I will encourage (but not require) your group to meet up (F2F or online) to play games in this genre. The prompt for this assignment will include a mechanism to help ensure equal contributions from group members. 
 
 *Final Essay*: For your final assignment, you will produce an essay about a game or Game Studies topic of your choice. You are welcome to select a game that does not appear on the above list (see "Games and Materials"), but please run it by me before commencing your research. You'll have two options: 1) a video essay of 10-14 minutes or 2) a written essay of 1250-2000 words plus images and/or audio. The worksheets in this course will scaffold your learning toward this essay (that way, you don't start it at the last minute), and I'll ask you to compose the essay with a public audience in mind (e.g., viewers of a specific channel or readers of a particular games website or magazine). I will also ask you to write at least some of the essay from the first-person perspective and include documentation of the game you played and how you played it. 
 
@@ -143,9 +143,9 @@ I am asking you to complete five assignments this term.
 
 The most important thing to know about this course is that *I'll opt for care in every instance.* If the workload becomes too much or we're juggling more than we should, then I'll cut material. I planned for the maximum in advance, under the assumption we won't get to everything. And that's totally fine.
 
-I suggest dedicating *3 to 5 hours* to MDIA 360 each week in addition to our weekly meetings on Monday and Thursday. Of course, 3 to 5 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your familiarity with the materials and work involved.
+I suggest dedicating *4 to 6 hours* to MDIA 360 each week in addition to our weekly meetings on Monday and Thursday. Of course, 4 to 6 hours per week is only a guideline. You may find that you need more or less time depending on the activity, your preferences, and your familiarity with the materials and work involved.
 
-I will give you some time during class to draft responses to the worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 3 to 5 hours per week. 
+I will give you some time during class to draft responses to the worksheets; however, you will need more time (between classes) to develop and refine your work, hence the recommended 4 to 6 hours per week. 
 
 # Schedule
 
