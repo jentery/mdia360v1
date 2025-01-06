@@ -6,7 +6,7 @@ M and Th, 1 - 2:20pm | 1.5 units | prereq: AWR
 Taught by [Jentery Sayers](https://jntry.work/) (he / him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 Office hours: M and Th, 12-1pm, in CLE D331    
 
-View this document in [PDF](mdia360Spring2025Syllabus.pdf) (dated 6 January 2025). 
+View this document in [PDF](mdia360Spring2025Syllabus.pdf) (dated 5 January 2025). 
 
 *This syllabus is licensed [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).*
 
@@ -125,16 +125,16 @@ There are no exams, quizzes, presentations, or participation marks in this cours
 I am asking you to complete five assignments this term. 
 
 1. **[Worksheet 1](https://jentery.github.io/mdia360v1/worksheet1.html)**: 20% of your final grade (due by Thursday, January 30th, at 1pm). 
-2. **[Worksheet 2](https://jentery.github.io/mdia360v1/worksheet2.html)**: 20% of your final grade (due by Monday, February 24th at 1pm). 
-3. **[Worksheet 3](https://jentery.github.io/mdia360v1/worksheet3.html)**: 20% of your final grade (due by Monday, March 17th at 1pm).
-4. **[Genre Report](https://jentery.github.io/mdia360v1/report.html)**: 15% of your final grade (due by Monday, March 31st at 1pm). 
-5. **[Essay](https://jentery.github.io/mdia360v1/essay)**: 25% of your final grade (due by Thursday, April 17th at 1pm). 
+2. **[Worksheet 2](https://jentery.github.io/mdia360v1/worksheet2.html)**: 20% of your final grade (due by Monday, February 24th, at 1pm). 
+3. **[Worksheet 3](https://jentery.github.io/mdia360v1/worksheet3.html)**: 20% of your final grade (due by Monday, March 17th, at 1pm).
+4. **[Genre Report](https://jentery.github.io/mdia360v1/report.html)**: 15% of your final grade (due by Monday, March 31st, at 1pm). 
+5. **[Essay](https://jentery.github.io/mdia360v1/essay.html)**: 25% of your final grade (due by Thursday, April 17th, at 1pm). 
 
 *Worksheets*: The worksheets will ask you to apply what you're learning in class through a combination of media (audio, images, text, and video). They will also scaffold your learning toward the final essay (see below). A worksheet will never contain more than three prompts, and I will encourage you to use class time to draft your brief responses to them. I will circulate each worksheet well before it's due, and I'll review each prompt in class to ensure it's clear. 
 
 *Genre Report*: Near the end of term, you will work in a small group (4-6 people) to cover a genre of games that does not appear explicitly in the schedule below. Together, you will describe the genre as an activity and provide examples of its significance. I will encourage (but not require) your group to meet up (F2F or online) to play games in this genre. The prompt for this assignment will include a mechanism to help ensure equal contributions from each group member. 
 
-*Final Essay*: For your final assignment, you will produce an essay about a game or Game Studies topic of your choice. You are welcome to select a game that does not appear on the above list, but please run it by me before commencing your research. You'll have two options: 1) a video essay of 8-12 minutes or 2) a written essay of 1250-2000 words plus images and/or audio. The worksheets in this course will scaffold your learning toward this essay (that way, you don't start it at the last minute), and I'll ask you to compose the essay with a public audience in mind (e.g., viewers of a specific channel or readers of a particular games website or magazine). I will also ask you to write at least some of the essay from the first-person perspective and include documentation of the game you played and how you played it. 
+*Final Essay*: For your final assignment, you will produce an essay about a game or Game Studies topic of your choice. You are welcome to select a game that does not appear on the above list (see "Games and Materials"), but please run it by me before commencing your research. You'll have two options: 1) a video essay of 10-14 minutes or 2) a written essay of 1250-2000 words plus images and/or audio. The worksheets in this course will scaffold your learning toward this essay (that way, you don't start it at the last minute), and I'll ask you to compose the essay with a public audience in mind (e.g., viewers of a specific channel or readers of a particular games website or magazine). I will also ask you to write at least some of the essay from the first-person perspective and include documentation of the game you played and how you played it. 
 
 *Brightspace*: Please use Brightspace to submit all your work this term. You do not need to purchase any software to use Brightspace, but you will need your UVic NetLink ID, access to the internet, and a computer. I cannot accept assignments by email.
 
@@ -328,6 +328,8 @@ We'll draw material from:
 
 Be sure to check the class notebook after this session.
 
+*Please email me if you have any questions or concerns about Worksheet 3.* 
+
 ## Th 6 March: Adventure and Fiction
 
 We'll study adventure games and interactive fiction, including visual novels and narrative games. How do they encourage exploration without relying on action? 
@@ -340,7 +342,7 @@ We'll draw material from:
 
 Be sure to check the class notebook after this session.
 
-*Please email me if you have any questions or concerns about Worksheet 3.*
+*Please email me if you have any questions or concerns about the Genre Report.*
 
 ## M 10 March: Management and Rhythm 
 
@@ -363,6 +365,8 @@ We'll draw material from:
 2. Games we've played and studied thus far.
 
 Be sure to check the class notebook after this session.
+
+*Please email me if you have any questions or concerns about the Final Essay*. 
 
 ## M 17 March: Strategy
 
@@ -388,8 +392,6 @@ We'll draw material from:
 2. [*Overcooked*](https://www.overcooked.games/) by Ghost Town Games, who are based in England. 
 
 Be sure to check the class notebook after this session.
-
-*Please email me if you have any questions or concerns about the Genre Report*. 
 
 ## M 24 March: Games Media and Criticism 
 
