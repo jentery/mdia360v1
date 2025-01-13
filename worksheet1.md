@@ -59,7 +59,7 @@ I recommend using prose (paragraphs) rather than point form in your responses. P
 
 ## Citing Your Sources 
 
-Please do not forget to cite any material from which you draw ideas or examples. This includes course handouts. You are welcome to use your preferred citation style (MLA, Chicago, or APA, e.g.).  
+Please do not forget to cite any material from which you draw ideas or examples. This includes games, videos, podcasts, and streams as well as academic publications such as journal articles. You are welcome to use your preferred citation style (MLA, Chicago, or APA, e.g.).  
 
 ## What to Submit 
 
