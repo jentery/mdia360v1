@@ -36,6 +36,8 @@ Game assets include sound effects, visual effects, animations, music, voice trac
 
 **Prompt 3**. Return to that game one more time and use no more than 400 words, including terminology from the class notebook, to explain the role of "solutions" in it. Echoing [Adam Millard](https://www.youtube.com/watch?v=BPD9yaEr7Z8), would you say it's more of a puzzle game or problem game? Perhaps it isn't interested in being either or it wants to be both. Feel free to adopt capacious definitions of "puzzle" and "problem" here, but please address the following in your explanation: 1) the degree to which the game invites you to create or find "solutions," 2) the role you (as a player or player character) perform in that process, 3) an experience or situation the game simulates as part of that process, and 4) what you learned about the game and its assets (see Prompt 1), experience design (see Prompt 2), and approach to puzzles and problems from this exercise. Feel free to embed or attach any documentation to demonstrate or support the points you wish to make.  
 
+Content warning for Millard's video: at 11:37, he includes footage of an animated NPC who hangs herself. The scene lasts about three seconds and concludes by 11:41. It is not graphic or gruesome, but its inclusion is insensitive and could be triggering. 
+
 ## Assessment 
 
 I will use the following rubric, based on [UVic's official grading system](https://www.uvic.ca/calendar/undergrad/index.php#/policy/S1AAgoGuV?bc=true&bcCurrent=14%20-%20Grading&bcGroup=Undergraduate%20Academic%20Regulations&bcItemType=policies), to assess your responses. 
