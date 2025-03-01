@@ -48,7 +48,8 @@ You're welcome to include documentation (audio, video, or images) to support you
 2. Describe its motivations or what it cares most about. 
 3. Identify three of its keywords (i.e., terms it uses often). 
 4. Communicate its relevance to your own research (e.g., why you might refer to it in your essay). 
-5. Integrate course terminology where applicable. 
+5. Integrate course terminology where applicable.
+6. Include a citation for it in MLA, Chicago, APA, or the like. 
 
 Secondary sources include academic publications (see, for instance, [*American Journal of Play*](https://www.museumofplay.org/journalofplay/), [*Analog Game Studies*](https://analoggamestudies.org/), [*Game Studies*](http://gamestudies.org/2202), [*First Person Scholar*](https://www.firstpersonscholar.com/), and [*Loading...*](https://journals.sfu.ca/loading/index.php/loading)), games media and criticism (see, for instance, [*Patch*](https://patchmagazine.co.uk/), [*Uppercut*](https://uppercutcrit.com/), [*Unwinnable*](https://unwinnable.com/), and [*Remap*](https://remapradio.com/)), and video essays and recorded talks (see, for instance, [GDC](https://www.youtube.com/@Gdconf), [Jacob Geller](https://www.youtube.com/@JacobGeller), [Polygon](https://www.youtube.com/@polygon), and [Writing on Games](https://www.youtube.com/@WritingOnGames/videos)).
 
