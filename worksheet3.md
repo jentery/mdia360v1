@@ -6,7 +6,7 @@ M and Th, 1 - 2:20pm | 1.5 units | prereq: AWR
 Taught by [Jentery Sayers](https://jntry.work/) (he / him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 Office hours: M and Th, 12-1pm, in CLE D331    
 
-# Worksheet 3 (DRAFT)
+# Worksheet 3
 
 Worksheet 3 covers course material since January 9th ("Work and Play"). Your response is due via Brightspace by Monday, March 17th, at 1pm.
 
@@ -16,7 +16,7 @@ The worksheet is *open-book*, meaning you are allowed to use the course website,
 
 ## Download the Worksheet 
 
-Please download the worksheet (DOCX format; coming soon) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
+Please [download the worksheet](mdia360v1Worksheet3.docx) (DOCX format) to complete it in a word processor such as Microsoft Word, Google Docs, OpenOffice, LibreOffice, or Pages for Mac.  
 
 ## Format
 
@@ -24,7 +24,7 @@ This open-book worksheet contains *three* prompts, and I will mark it holistical
 
 Please use no more than 400 words to respond to each prompt. 
 
-Some prompts ask you to create media. Please attach your audio, image, or video files to your response in Brightspace. Do *not* use YouTube, SoundCloud, Vimeo, Google Drive, or any other non-Brightspace platform to submit files. 
+Some prompts ask or allow you to create media. Please attach your audio, image, or video files to your response in Brightspace. Do *not* use YouTube, SoundCloud, Vimeo, Google Drive, or any other non-Brightspace platform to submit files. 
 
 If you play a game with someone else or observe them playing (outside of Twitch, YouTube, or a similar public streaming or publishing platform), then please first acquire their written or recorded permission and include it as part of your submission. 
 
