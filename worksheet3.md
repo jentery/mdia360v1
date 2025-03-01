@@ -46,7 +46,7 @@ You're welcome to include documentation (audio, video, or images) to support you
 
 1. Summarize its argument or theme. 
 2. Describe its motivations or what it cares most about. 
-3. Identify three of its keywords (i.e., terms it often uses). 
+3. Identify three of its keywords (i.e., terms it uses often). 
 4. Communicate its relevance to your own research (e.g., why you might refer to it in your essay). 
 5. Integrate course terminology where applicable. 
 
