@@ -61,7 +61,7 @@ Secondary sources include academic publications (see [*JCMS*](https://quod.lib.u
 4. Engage current or pressing issues in Game Studies, including issues from at least two entries in the class notebook. Say why these issues matter, for whom they matter most, and how you're approaching them.
 5. Include a significant claim with which someone could disagree. That is, the claim should be arguable (not just an opinion). You might even share a "counterclaim" or why someone would disagree with you: "While X say that Game is Y, I demonstrate why it's Z." 
 6. Integrate evidence or documentation of you playing a game (aka, a primary source). For this reason, your theme can be communicated from a first-person POV if you wish. Your essay can also use first-person language. 
-7. Integrate at least three secondary sources (see Prompt 2). This way, your theme converses with other themes. 
+7. Integrate at least three secondary sources (see Prompt 2). This way, your theme converses with themes in other people's work.  
 
 Include any documentation (audio, video, or images) you wish to support your theme. 
 
