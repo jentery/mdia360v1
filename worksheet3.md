@@ -36,7 +36,7 @@ If you play a game with someone else or observe them playing (outside of Twitch,
 2. How does the game rely on affect to connect with players? Describe the fidelity of that connection. 
 3. To what degree does the game's world cohere? Describe its aesthetic and messaging. 
 4. How does the game teach you to play it? Describe its approach to tutorialization and how it acknowledges progress. 
-5. How does the game end? Describe its relation to uncertainty and satisfaction, including (where applicable) time to completion.
+5. How does the game end, or how do you know when it's over? Describe its relation to uncertainty and satisfaction, including (where applicable) the [time required to complete it](https://howlongtobeat.com/). 
 6. What's one way to "cheat" at the game? Identify a community who would "police" such cheating.
 7. Communicate the social, cultural, or political significance of the game to a Game Studies skeptic. 
 
