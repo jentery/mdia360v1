@@ -40,7 +40,7 @@ If you play a game with someone else or observe them playing (outside of Twitch,
 6. What's one way to "cheat" at the game? Identify a community who would "police" such cheating.
 7. Communicate the social, cultural, or political significance of the game to a Game Studies skeptic. 
 
-You're welcome to include documentation (audio, video, or images) to support your seven responses. 
+You're welcome to include documentation (audio, video, or images) to support your responses. 
 
 **Prompt 2**. Return to the same game and select three secondary sources about it or related to it. Then, for each source, please: 
 
