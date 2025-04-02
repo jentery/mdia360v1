@@ -108,4 +108,4 @@ Please submit a DOCX, ODT, PAGES, PDF, MOV, or MP4 file containing your Final Es
 
 ## When to Submit It
 
-The Final Essay is due by 1pm on Thursday, April 17th, at 1pm. I will deduct ten points for every business day that I receive your essay after 5pm that Thursday. (Note that UVic is closed on Friday, April 18th and Monday, April 21st.) I will close the submission portal on Wednesday, April 23rd at 5pm and cannot accept any submissions after the portal is closed. I do not accept submissions by email. 
+The Final Essay is due by 1pm on Thursday, April 17th. I will deduct ten points for every business day that I receive your essay after 5pm that Thursday. (Note that UVic is closed on Friday, April 18th and Monday, April 21st.) I will close the submission portal on Wednesday, April 23rd at 5pm and cannot accept any submissions after the portal is closed. I do not accept submissions by email. 
