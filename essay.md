@@ -6,7 +6,7 @@ M and Th, 1 - 2:20pm | 1.5 units | prereq: AWR
 Taught by [Jentery Sayers](https://jntry.work/) (he / him) | [jentery@uvic.ca](mailto:jentery@uvic.ca)    
 Office hours: M and Th, 12-1pm, in CLE D331    
 
-# Final Essay (DRAFT)
+# Final Essay
 
 The Final Essay covers course material since January 9th ("Work and Play"). Your response is due via Brightspace by Thursday, April 17th, at 1pm.
 
